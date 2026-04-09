@@ -1,9 +1,9 @@
 const CONFIG = {
   paths: {
-    resumeData: '/resume/Reactive Resume.json',
-    profileArt: '/src/profile.html',
-    faviconSvg: '/favicon.svg',
-    faviconIco: '/favicon.ico'
+    resumeData: 'resume/Reactive Resume.json',
+    profileArt: 'src/profile.html',
+    faviconSvg: 'favicon.svg',
+    faviconIco: 'favicon.ico'
   },
   theme: {
     colors: {
