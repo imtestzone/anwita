@@ -1,0 +1,442 @@
+{
+  "basics": {
+    "customFields": [
+      {
+        "icon": "envelope",
+        "id": "e4x19qvsddiq21syo69n6bd7",
+        "link": "",
+        "text": ""
+      }
+    ],
+    "email": "acharyya.anwita@gmail.com",
+    "headline": "Female, Married",
+    "location": "Marathalli, Bangalore",
+    "name": "Anwita Acharyya",
+    "phone": "+91 9874544105",
+    "website": {
+      "label": "",
+      "url": ""
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "css": {
+      "enabled": false,
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}"
+    },
+    "design": {
+      "colors": {
+        "background": "rgba(255, 255, 255, 1)",
+        "primary": "rgba(128, 161, 212, 1)",
+        "text": "rgba(0, 0, 0, 1)"
+      },
+      "level": {
+        "icon": "star",
+        "type": "circle"
+      }
+    },
+    "layout": {
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "summary",
+            "education",
+            "experience"
+          ],
+          "sidebar": [
+            "profiles",
+            "skills",
+            "certifications",
+            "awards",
+            "publications",
+            "references",
+            "languages"
+          ]
+        },
+        {
+          "fullWidth": false,
+          "main": [
+            "projects",
+            "volunteer"
+          ],
+          "sidebar": [
+            "interests"
+          ]
+        }
+      ],
+      "sidebarWidth": 35
+    },
+    "notes": "",
+    "page": {
+      "format": "a4",
+      "gapX": 4,
+      "gapY": 6,
+      "hideIcons": false,
+      "locale": "en-US",
+      "marginX": 34,
+      "marginY": 34
+    },
+    "template": "glalie",
+    "typography": {
+      "body": {
+        "fontFamily": "Open Sans",
+        "fontSize": 10.5,
+        "fontWeights": [
+          "400"
+        ],
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "Open Sans",
+        "fontSize": 13.5,
+        "fontWeights": [
+          "600"
+        ],
+        "lineHeight": 1.5
+      }
+    }
+  },
+  "picture": {
+    "aspectRatio": 1,
+    "borderColor": "rgba(0, 0, 0, 0)",
+    "borderRadius": 100,
+    "borderWidth": 0,
+    "hidden": false,
+    "rotation": 0,
+    "shadowColor": "rgba(0, 0, 0, 0.5)",
+    "shadowWidth": 0,
+    "size": 200,
+    "url": "https://storage.rxresu.me/clp9fwawg5ioi9huno4odyqny/pictures/clp9fwawg5ioi9huno4odyqny.jpg"
+  },
+  "sections": {
+    "awards": {
+      "columns": 1,
+      "hidden": false,
+      "items": [],
+      "title": "Awards"
+    },
+    "certifications": {
+      "columns": 1,
+      "hidden": false,
+      "items": [],
+      "title": "Certifications"
+    },
+    "education": {
+      "columns": 2,
+      "hidden": false,
+      "items": [
+        {
+          "area": "Geography",
+          "degree": "B.Ed",
+          "description": "",
+          "grade": "9.10 SGPA",
+          "hidden": false,
+          "id": "b2nb7y3zx03uy04oo07a6q5l",
+          "location": "",
+          "period": "2022 -2024",
+          "school": "JIS University",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "area": "Geography",
+          "degree": "M.Sc.",
+          "description": "",
+          "grade": "72.08%",
+          "hidden": false,
+          "id": "mh3zcgk03lzs8p9zh0rrb77y",
+          "location": "",
+          "period": "2019 - 2021",
+          "school": "West Bengal State University",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "area": "Geography",
+          "degree": "B.Sc.",
+          "description": "",
+          "grade": "49.62%",
+          "hidden": false,
+          "id": "z429alygeve2hbt3yx2540e2",
+          "location": "",
+          "period": "2016 - 2019",
+          "school": "Calcutta University",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "area": "",
+          "degree": "Higher Secondary (XII)",
+          "description": "Humanities",
+          "grade": "73.60%",
+          "hidden": false,
+          "id": "ql0c3qefi4dh6peqgsvaia2f",
+          "location": "",
+          "period": " 2014 - 2016",
+          "school": "CBSE",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "area": "",
+          "degree": "Higher Secondary (X)",
+          "description": "",
+          "grade": "79.8%",
+          "hidden": false,
+          "id": "fy39rbchcv47xvippurc0nof",
+          "location": "",
+          "period": "2004 -2014",
+          "school": "CBSE",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Education"
+    },
+    "experience": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "company": "SENATE PUBLIC SCHOOL",
+          "description": "\u003cp\u003e\u003cstrong\u003eSubject Teacher (Geography, History, Civics, Economics)\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp\u003eTaught classes VI-X, specializing in Geography\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp\u003eDesigned lesson plans, conducted assessments, and promoted interactive learning\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eClass Teacher – Grade 8\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp\u003eManaged report cards and facilitated parent-school communication\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp\u003eTaught Social-Emotional Learning (SEL) and mentored students for holistic development\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "o4pf25gqa5k0ihm3wmywa4ej",
+          "location": "Barrackpore",
+          "period": "August 2024- January 2025",
+          "position": "Assistant Teacher",
+          "roles": [],
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "company": "SACRED HEART DAY HIGH SCHOOL",
+          "description": "\u003cp\u003e\u003cstrong\u003eTeaching:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp\u003eGeography, History, Political Science, Economics (VI-X)\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp\u003eGeography (XI-XII)\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eEvents:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp\u003eOrganized school cricket tournament (2022-23)\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp\u003eOrganized annual function\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSkills:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003cp\u003eClassroom management, curriculum development\u003c/p\u003e\u003c/li\u003e\u003cli\u003e\u003cp\u003eFun learning activities, leadership\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "unr464sqyowumt9elqhzvmg7",
+          "location": "Barrackpore",
+          "period": "August 2023- December 2023",
+          "position": "Internship",
+          "roles": [],
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Experience"
+    },
+    "interests": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "hidden": false,
+          "icon": "",
+          "id": "b3fg1i5q59yw347h7kfd1252",
+          "keywords": [],
+          "name": "Drawing"
+        },
+        {
+          "hidden": false,
+          "icon": "",
+          "id": "k9mm20x72dpkde7nie1xmip2",
+          "keywords": [],
+          "name": "Singing "
+        },
+        {
+          "hidden": false,
+          "icon": "",
+          "id": "f7wzgxt2xd5drc4m1b9dcw9w",
+          "keywords": [],
+          "name": "Travelling"
+        }
+      ],
+      "title": "Interests"
+    },
+    "languages": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "fluency": " ",
+          "hidden": false,
+          "id": "hbvgo78r2yin19rek2btx6cs",
+          "language": "English",
+          "level": 5
+        },
+        {
+          "fluency": " ",
+          "hidden": false,
+          "id": "baxifq8dn1axmvvnavnh79f2",
+          "language": "Hindi",
+          "level": 5
+        }
+      ],
+      "title": "Languages"
+    },
+    "profiles": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "hidden": false,
+          "icon": "linkedin",
+          "id": "xofhrth452n5nfgzizyeyf9o",
+          "network": "Linkedin",
+          "username": "anwita-acharyya-04b152222",
+          "website": {
+            "label": "",
+            "url": "https://www.linkedin.com/in/anwita-acharyya-04b152222/"
+          }
+        }
+      ],
+      "title": "Profiles"
+    },
+    "projects": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "description": "\u003cp style=\"text-align: justify\"\u003e- Conducted secondary surveys and used GIS software to complete final year project on mortality scenario with emphasis on infant and child mortality. Presented dissertation via WebEx to key academic figures.\n\u003c/p\u003e",
+          "hidden": false,
+          "id": "ox3m35lh9k47ch65aaq6pujz",
+          "name": "•\tDISSERTATION ON “ Mortality scenario of West Bengal with special reference to infant mortality and child mortality”",
+          "period": " ",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "description": "\u003cp style=\"text-align: justify\"\u003e- Conducted a project on the socioeconomic impact of tourism in Darjeeling during my third year of graduation, utilizing GIS software, image interpretation techniques, and GPS survey.\n- Presented findings to Principal, HOD, and professors.\u003c/p\u003e",
+          "hidden": false,
+          "id": "ezy2l0coktcbtantp858y5hv",
+          "name": "•\tDarjeeling and its socioeconomic impact on its population. ",
+          "period": " ",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "description": "\u003cp style=\"text-align: justify\"\u003e- Conducted primary and secondary surveys, and employed various tools and techniques, including GIS software, theodolite, GPS survey, and soil and water testing to complete first-year project on eco-tourism.\u003c/p\u003e",
+          "hidden": false,
+          "id": "mbkjhbhb692ksimalcfqv6ao",
+          "name": "•\tDevelopment of Eco-tourism in West Bengal",
+          "period": " ",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    "publications": {
+      "columns": 1,
+      "hidden": false,
+      "items": [],
+      "title": "Publications"
+    },
+    "references": {
+      "columns": 1,
+      "hidden": false,
+      "items": [],
+      "title": "References"
+    },
+    "skills": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "hidden": false,
+          "icon": "",
+          "id": "twksibwz6hzr43ad5et9gbse",
+          "keywords": [],
+          "level": 5,
+          "name": "Classroom managment",
+          "proficiency": ""
+        },
+        {
+          "hidden": false,
+          "icon": "",
+          "id": "h7li92z66hyjd8bi88hcd82x",
+          "keywords": [],
+          "level": 5,
+          "name": "Interpersonal skills",
+          "proficiency": ""
+        },
+        {
+          "hidden": false,
+          "icon": "",
+          "id": "l3b4hq42iibp56zjaxqwx203",
+          "keywords": [],
+          "level": 4,
+          "name": "Curriculum development",
+          "proficiency": ""
+        },
+        {
+          "hidden": false,
+          "icon": "",
+          "id": "ocjtwd3av2q82dbw9xu1khw6",
+          "keywords": [],
+          "level": 5,
+          "name": "Organization of various events",
+          "proficiency": ""
+        }
+      ],
+      "title": "Skills"
+    },
+    "volunteer": {
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "description": "\u003cul\u003e\u003cli\u003e\u003cp\u003eCollection and distribution of necessities for the less fortunate\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "aofbyupuzk8vu5ndnlaiz9nn",
+          "location": "",
+          "organization": "Sacred Heart Day High school",
+          "period": "August 2023- December 2023",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        },
+        {
+          "description": "\u003cul\u003e\u003cli\u003e\u003cp\u003eFood drive for the less fortunate kids.\u003c/p\u003e\u003c/li\u003e\u003c/ul\u003e",
+          "hidden": false,
+          "id": "sw3blcfunjxcbapjlp3vhlww",
+          "location": "Agarpara",
+          "organization": "JIS University ",
+          "period": "December 2023",
+          "website": {
+            "label": "",
+            "url": ""
+          }
+        }
+      ],
+      "title": "Volunteering"
+    }
+  },
+  "summary": {
+    "columns": 1,
+    "content": "\u003cp style=\"text-align: justify\"\u003eAs an aspiring educator, I am eager to utilize my skills, knowledge, and passion to make a positive impact on the academic and personal growth of my students. With a strong educational background and a commitment to creating an engaging and inclusive learning environment, I am confident in my ability to inspire and motivate students to achieve their full potential.\u003c/p\u003e",
+    "hidden": false,
+    "title": "Summary"
+  }
+}
